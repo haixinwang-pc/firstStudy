@@ -1,0 +1,8 @@
+﻿  Tax.cpp
+e:\gitstudy\gitstudy\tax.cpp(34): warning C4305: “参数”: 从“double”到“float”截断
+e:\gitstudy\gitstudy\tax.cpp(35): warning C4305: “参数”: 从“double”到“float”截断
+e:\gitstudy\gitstudy\tax.cpp(36): warning C4305: “参数”: 从“double”到“float”截断
+e:\gitstudy\gitstudy\tax.cpp(38): warning C4305: “参数”: 从“double”到“float”截断
+e:\gitstudy\gitstudy\tax.cpp(39): warning C4305: “参数”: 从“double”到“float”截断
+  GitStudy.vcxproj -> E:\GitStudy\Debug\GitStudy.exe
+  GitStudy.vcxproj -> E:\GitStudy\Debug\GitStudy.pdb (Partial PDB)
