@@ -8,8 +8,8 @@ using namespace std;
 #define		NEEDPRINT				1
 
 //time information
-#define		OnboardingMonth			7
-#define		OnboardingDate			6
+#define		OnboardingMonth			7 // if onboarded, set 0 
+#define		OnboardingDate			6 // if onboarded, set 0 
 #define		NewYearMonth			1
 
 //salary information
@@ -26,7 +26,7 @@ class taxMessage
 public:
 	int amountMin;
 	int amountMax;
-	float ratio;
+	double ratio;
 	int quickCalc;
 public:
 	taxMessage() : amountMin(0), amountMax(INT_MAX), ratio(0.0), quickCalc(0) {};
